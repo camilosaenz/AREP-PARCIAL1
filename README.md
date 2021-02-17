@@ -1,6 +1,6 @@
 # AREP - PARCIAL 1
 
-## El objetivo de este Parcial es construir un webservice  para consultar el estado del clima en lugares específicos de la tierra.  El servicio web recibirá en un campo la descripción de una ciudad, por ejemplo “London” para Londres   y deberá mostrar la información del clima para esa ciudad.
+El objetivo de este Parcial es construir un webservice  para consultar el estado del clima en lugares específicos de la tierra.  El servicio web recibirá en un campo la descripción de una ciudad, por ejemplo “London” para Londres   y deberá mostrar la información del clima para esa ciudad.
 
 ## HEROKU
 Para poder visualizar la aplicacion desplegada en Heroku siga el enlace:
