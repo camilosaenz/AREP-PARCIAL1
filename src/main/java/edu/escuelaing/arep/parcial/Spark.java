@@ -25,7 +25,7 @@ public class Spark {
         // Etiqueta en la url "/clima"
         get("/clima", (req, res) -> {
         	
-            String ciudad = req.queryParams("ciudad");
+            String ciudad = req.queryParams("lugar");
             String json = "";
             
             if(ciudad.length()==0){
