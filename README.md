@@ -6,7 +6,7 @@ El objetivo de este Parcial es construir un webservice  para consultar el estado
 Para poder visualizar la aplicacion desplegada en Heroku siga el enlace:
 
 ```
-Para consultar el clima de cuanquier Ciudad, cambielo por el nombre de la ciudad que desee consultar, haga esto despues del = en el link de Heroku.
+Para consultar el clima de cualquier Ciudad, cambie el nombre que esta "Ibague" por el nombre de la ciudad que desee consultar, haga esto despues del = en el link de Heroku.
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-parcial1-rcsr.herokuapp.com/clima?lugar=Ibague)
