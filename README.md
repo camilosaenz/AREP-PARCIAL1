@@ -9,7 +9,8 @@ Para poder visualizar la aplicacion desplegada en Heroku siga el enlace:
 Para consultar el clima de cuanquier Ciudad, cambielo por el nombre de la ciudad que desee consultar, haga esto despues del = en el link de Heroku.
 ```
 
-[![Deploy](https://arep-parcial1-rcsr.herokuapp.com/clima?lugar=Ibague)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-parcial1-rcsr.herokuapp.com/clima?lugar=Ibague)
+
 
 ## PRERREQUISITOS
 Para la realización y Ejecución de este programa es necesario tener los siguiente programas:
